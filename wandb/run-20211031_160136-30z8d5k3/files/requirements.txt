@@ -351,7 +351,7 @@ spyder==4.2.5
 sqlalchemy==1.4.15
 starlette==0.16.0
 statsmodels==0.12.2
-streamlit==0.88.0
+streamlit==1.11.1
 stripe==2.60.0
 subprocess32==3.5.4
 sympy==1.8
