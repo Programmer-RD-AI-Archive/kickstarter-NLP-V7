@@ -260,7 +260,7 @@ pre-commit==2.13.0
 prometheus-client==0.10.1
 promise==2.3
 prompt-toolkit==3.0.17
-protobuf==3.19.0
+protobuf==3.19.5
 psutil==5.8.0
 ptyprocess==0.7.0
 py-spy==0.3.7
