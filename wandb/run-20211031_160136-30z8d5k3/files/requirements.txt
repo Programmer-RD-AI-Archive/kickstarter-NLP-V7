@@ -349,7 +349,7 @@ sphinxcontrib-websupport==1.2.4
 spyder-kernels==1.10.2
 spyder==4.2.5
 sqlalchemy==1.4.15
-starlette==0.16.0
+starlette==0.25.0
 statsmodels==0.12.2
 streamlit==0.88.0
 stripe==2.60.0
