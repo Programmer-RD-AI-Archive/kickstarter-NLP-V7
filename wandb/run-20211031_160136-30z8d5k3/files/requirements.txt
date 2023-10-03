@@ -394,7 +394,7 @@ tzlocal==3.0
 ujson==4.0.2
 unicodecsv==0.14.1
 universal-analytics-python3==1.1.1
-urllib3==1.26.6
+urllib3==1.26.17
 validators==0.18.2
 virtualenv==20.4.7
 voxel51-eta==0.5.3
