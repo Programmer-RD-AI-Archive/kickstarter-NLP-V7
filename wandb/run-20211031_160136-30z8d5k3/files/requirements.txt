@@ -114,7 +114,7 @@ fvcore==0.1.5.post20211019
 gast==0.3.3
 gevent==21.1.2
 gitdb==4.0.7
-gitpython==3.1.14
+gitpython==3.1.37
 glob2==0.7
 gmpy2==2.0.8
 google-api-core==1.30.0
